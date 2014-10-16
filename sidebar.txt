@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[buj:home|Door43 (buj)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-buj|d43-buj repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-buj/archive/master.zip|d43-buj.zip]]
+
+**Recent Changes**
+{{changes>ns = buj}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/buj|Ethnologue data]]
+
